@@ -78,5 +78,79 @@ Trong hóa học, các phép đo thường liên quan đến lượng chất, kh
 
 ---
 
-## II. CÁC ĐƠN VỊ ĐO TRONG VẬT LÝ (PHYSICS UNITS) - *Sẽ cập nhật thêm*
-*(Phần này dành riêng để cập nhật các đơn vị đo lường Vật lý như lực, vận tốc, gia tốc, điện tích, từ trường...)*
+## II. CÁC ĐƠN VỊ ĐO TRONG VẬT LÝ (PHYSICS UNITS)
+
+Trong vật lý, các đơn vị đo lường được chia thành các đơn vị cơ bản (hệ SI) và các đơn vị dẫn xuất để mô tả các hiện tượng cơ, nhiệt, điện, từ, quang và lượng tử.
+
+### 1. Các Đơn vị Cơ bản trong Hệ SI (SI Base Units)
+Hệ đo lường quốc tế (SI) được xây dựng trên 7 đơn vị cơ bản:
+*   **Độ dài (Length):** Mét ($\text{m}$)
+*   **Khối lượng (Mass):** Kilôgam ($\text{kg}$)
+*   **Thời gian (Time):** Giây ($\text{s}$)
+*   **Cường độ dòng điện (Electric current):** Ampere ($\text{A}$)
+*   **Nhiệt độ nhiệt động lực học (Thermodynamic temperature):** Kelvin ($\text{K}$)
+*   **Lượng chất (Amount of substance):** Mol ($\text{mol}$)
+*   **Cường độ sáng (Luminous intensity):** Candela ($\text{cd}$)
+
+### 2. Lực và các Đại lượng Cơ học (Force & Mechanics)
+*   **Lực (Force):** Newton
+    *   *Ký hiệu:* $\text{N}$
+    *   *Định nghĩa:* Lực làm cho một vật có khối lượng $1\text{ kg}$ thu được gia tốc $1\text{ m/s}^2$. ($1\text{ N} = 1\text{ kg}\cdot\text{m/s}^2$)
+*   **Trọng lượng / Lực căng / Lực ma sát:** Đều dùng chung đơn vị Newton ($\text{N}$).
+*   **Vận tốc (Velocity):** Mét trên giây ($\text{m/s}$) hoặc Kilômét trên giờ ($\text{km/h}$) ($1\text{ m/s} = 3,6\text{ km/h}$).
+*   **Gia tốc (Acceleration):** Mét trên giây bình phương ($\text{m/s}^2$).
+*   **Động lượng (Momentum):** Kilôgam mét trên giây ($\text{kg}\cdot\text{m/s}$).
+*   **Mô-men lực (Torque):** Newton mét ($\text{N}\cdot\text{m}$).
+
+### 3. Năng lượng, Công và Công suất (Energy, Work & Power)
+*   **Joule:** Đơn vị SI tiêu chuẩn đo công, năng lượng và nhiệt lượng.
+    *   *Ký hiệu:* $\text{J}$ ($1\text{ J} = 1\text{ N}\cdot\text{m} = 1\text{ kg}\cdot\text{m}^2/\text{s}^2$)
+*   **Watt-giờ / Kilowatt-giờ:** Thường dùng để đo lượng điện năng tiêu thụ.
+    *   *Ký hiệu:* $\text{Wh}$ / $\text{kWh}$
+    *   *Quy đổi:* $1\text{ kWh} = 3,6 \times 10^6\text{ J} = 3,6\text{ MJ}$.
+*   **Calorie:** Đơn vị đo nhiệt lượng (phổ biến trong nhiệt lượng học và dinh dưỡng).
+    *   *Ký hiệu:* $\text{cal}$ / $\text{kcal}$ ($1\text{ cal} \approx 4,184\text{ J}$).
+*   **Electronvolt:** Dùng trong vật lý hạt nhân và vật lý lượng tử.
+    *   *Ký hiệu:* $\text{eV}$
+    *   *Quy đổi:* $1\text{ eV} \approx 1,602 \times 10^{-19}\text{ J}$.
+*   **Công suất (Power):** Watt
+    *   *Ký hiệu:* $\text{W}$ ($1\text{ W} = 1\text{ J/s}$)
+    *   *Mã lực (Horsepower):* $\text{HP}$ hoặc $\text{CV}$ ($1\text{ HP} \approx 746\text{ W}$, $1\text{ CV} \approx 735,5\text{ W}$).
+
+### 4. Áp suất (Pressure)
+*   **Pascal:** Đơn vị SI tiêu chuẩn của áp suất và ứng suất.
+    *   *Ký hiệu:* $\text{Pa}$ ($1\text{ Pa} = 1\text{ N/m}^2$)
+*   **Các đơn vị khác:** $\text{atm}$ (atmosphere), $\text{bar}$, $\text{mmHg}$ / $\text{Torr}$ (xem chi tiết ở phần Hóa học).
+
+### 5. Điện và Từ (Electricity & Magnetism)
+*   **Điện tích (Electric Charge):** Coulomb
+    *   *Ký hiệu:* $\text{C}$ ($1\text{ C} = 1\text{ A}\cdot\text{s}$)
+    *   *Điện tích nguyên tố:* $e \approx 1,602 \times 10^{-19}\text{ C}$.
+*   **Hiệu điện thế / Điện áp (Voltage):** Volt
+    *   *Ký hiệu:* $\text{V}$ ($1\text{ V} = 1\text{ J/C}$)
+*   **Cường độ dòng điện (Electric Current):** Ampere ($\text{A}$).
+*   **Điện trở (Resistance):** Ohm
+    *   *Ký hiệu:* $\Omega$ ($1\text{ }\Omega = 1\text{ V/A}$)
+*   **Điện dung (Capacitance):** Farad
+    *   *Ký hiệu:* $\text{F}$ (thường dùng các ước số nhỏ hơn như $\mu\text{F}$, $\text{nF}$, $\text{pF}$)
+*   **Cảm ứng từ / Độ mạnh từ trường (Magnetic B-field):** Tesla
+    *   *Ký hiệu:* $\text{T}$ ($1\text{ T} = 1\text{ kg}/(\text{A}\cdot\text{s}^2)$)
+    *   *Gauss:* $\text{G}$ ($1\text{ T} = 10000\text{ G}$)
+*   **Từ thông (Magnetic Flux):** Weber
+    *   *Ký hiệu:* $\text{Wb}$ ($1\text{ Wb} = 1\text{ V}\cdot\text{s}$)
+*   **Độ tự cảm (Inductance):** Henry
+    *   *Ký hiệu:* $\text{H}$ ($1\text{ H} = 1\text{ Wb/A}$)
+
+### 6. Sóng, Dao động và Quang học (Waves & Optics)
+*   **Tần số (Frequency):** Hertz
+    *   *Ký hiệu:* $\text{Hz}$ ($1\text{ Hz} = 1/\text{s}$, số chu kỳ trên giây).
+*   **Bước sóng (Wavelength):** Mét ($\text{m}$), Nanômét ($\text{nm}$), hoặc Angstrom ($\mathring{\text{A}}$) ($1\text{ }\mathring{\text{A}} = 10^{-10}\text{ m}$).
+*   **Quang thông (Luminous Flux):** Lumen
+    *   *Ký hiệu:* $\text{lm}$ (đo tổng lượng ánh sáng phát ra từ một nguồn).
+*   **Độ rọi (Illuminance):** Lux
+    *   *Ký hiệu:* $\text{lx}$ ($1\text{ lx} = 1\text{ lm/m}^2$, đo mật độ ánh sáng trên một bề mặt).
+
+### 7. Vật lý Hạt nhân và Phóng xạ (Nuclear Physics & Radiation)
+*   **Độ phóng xạ (Activity):** Becquerel ($\text{Bq}$, số phân rã mỗi giây) hoặc Curie ($\text{Ci}$) ($1\text{ Ci} = 3,7 \times 10^{10}\text{ Bq}$).
+*   **Liều hấp thụ (Absorbed Dose):** Gray ($\text{Gy}$, năng lượng bức xạ hấp thụ trên mỗi kg khối lượng).
+*   **Liều tương đương (Equivalent Dose):** Sievert ($\text{Sv}$, đánh giá mức độ tác hại sinh học của bức xạ).
